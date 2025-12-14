@@ -1,5 +1,5 @@
 # CVE-2025-55182 Advanced Scanner 🚀
-
+![IMG_20251214_204122](https://github.com/user-attachments/assets/0592ea6f-0799-4c2a-ac35-a1dc2e63afe4)
 ![Bash](https://img.shields.io/badge/Bash-Script-green)
 ![Security](https://img.shields.io/badge/Security-CVE--Scanner-red)
 ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Ready-orange)
@@ -49,7 +49,7 @@ This vulnerability occurs due to **improper handling of internal RSC requests an
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/your-username/CVE-2025-55182-Advanced-Scanner.git
+git clone https://github.com/CyberPrince-hub/CVE-2025-55182-Advanced-Scanner.git
 cd CVE-2025-55182-Advanced-Scanner
 chmod +x scanner.sh
 
